@@ -9,4 +9,6 @@ Practice how to build my first network.
   <li>一層隱藏層內含10個神經元，並使用relu激勵函數</li>
 </ul>
 
+![image](https://github.com/scps960740/My-First_Network/blob/master/Figure_1.png)
+
 
