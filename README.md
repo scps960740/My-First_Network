@@ -5,9 +5,10 @@ Practice how to build my first network.
 <h3>筆記：</h3>
 <ul>
   <li>利用addLayer自定義增加神經層的函式</li>
-  <li>視情況來決定是否使用激勵函數</li>
-  <li>一層隱藏層內含10個神經元，並使用relu激勵函數</li>
+  <li>一層隱藏層內含10個神經元，並使用relu激勵函數</li>
 </ul>
+
+<h3>使用matplotlib圖像化訓練：</h3>
 
 ![image](https://github.com/scps960740/My-First_Network/blob/master/Figure_1.png)
 
